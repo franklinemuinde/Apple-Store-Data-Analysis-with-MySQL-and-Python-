@@ -1,6 +1,9 @@
 # Apple-Store-Data-Analysis-with-MySQL-and-Python-
 This project explores  2 datasets on apps on the Apple Store to draw insights to assist an app developer who needs data driven insights to decide on what type of app to build.
 
+---
+
+<details>
 ## Summary
 ### Data Analysis Key Findings
 1. Paid apps have a slightly higher average rating (3.7) compared to free apps (3.4).
@@ -27,3 +30,4 @@ By considering these factors, developers can increase their chances of creating 
 Notebook on [Google Colab](https://colab.research.google.com/drive/1L8WcTwSh5e2fz9K3itVcu0Opf7AYiWNu?usp=sharing#scrollTo=sAL6OKizvIwY)
 
 Link to [Dataset](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Favnishnish%2Fanalysis-of-apple-s-app-store)
+</details>
