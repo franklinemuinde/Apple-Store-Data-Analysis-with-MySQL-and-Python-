@@ -1,8 +1,6 @@
 # Apple-Store-Data-Analysis-with-MySQL-and-Python-
 This project explores  2 datasets on apps on the Apple Store to draw insights to assist an app developer who needs data driven insights to decide on what type of app to build.
 
----
-
 <details>
   
 ## Summary
