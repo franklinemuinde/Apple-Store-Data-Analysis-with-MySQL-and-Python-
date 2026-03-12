@@ -4,6 +4,7 @@ This project explores  2 datasets on apps on the Apple Store to draw insights to
 ---
 
 <details>
+  
 ## Summary
 ### Data Analysis Key Findings
 1. Paid apps have a slightly higher average rating (3.7) compared to free apps (3.4).
