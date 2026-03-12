@@ -24,5 +24,6 @@ Based on our analysis, here are some recommendations for an app developer aiming
 By considering these factors, developers can increase their chances of creating a successful, highly rated app.
 
 ### Related links
-Notebook on Google Colab
-Link to Dataset
+Notebook on [Google Colab](https://colab.research.google.com/drive/1L8WcTwSh5e2fz9K3itVcu0Opf7AYiWNu?usp=sharing#scrollTo=sAL6OKizvIwY)
+
+Link to [Dataset](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Favnishnish%2Fanalysis-of-apple-s-app-store)
